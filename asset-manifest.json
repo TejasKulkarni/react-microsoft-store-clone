@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-microsoft-store-clone/static/css/main.001b0961.chunk.css",
+    "main.js": "/react-microsoft-store-clone/static/js/main.52a93bb0.chunk.js",
+    "main.js.map": "/react-microsoft-store-clone/static/js/main.52a93bb0.chunk.js.map",
+    "runtime-main.js": "/react-microsoft-store-clone/static/js/runtime-main.a8e40325.js",
+    "runtime-main.js.map": "/react-microsoft-store-clone/static/js/runtime-main.a8e40325.js.map",
+    "static/js/2.8ba64989.chunk.js": "/react-microsoft-store-clone/static/js/2.8ba64989.chunk.js",
+    "static/js/2.8ba64989.chunk.js.map": "/react-microsoft-store-clone/static/js/2.8ba64989.chunk.js.map",
+    "index.html": "/react-microsoft-store-clone/index.html",
+    "precache-manifest.f7e767d0dfd4c7990c0e2cde13758109.js": "/react-microsoft-store-clone/precache-manifest.f7e767d0dfd4c7990c0e2cde13758109.js",
+    "service-worker.js": "/react-microsoft-store-clone/service-worker.js",
+    "static/css/main.001b0961.chunk.css.map": "/react-microsoft-store-clone/static/css/main.001b0961.chunk.css.map",
+    "static/js/2.8ba64989.chunk.js.LICENSE.txt": "/react-microsoft-store-clone/static/js/2.8ba64989.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a8e40325.js",
+    "static/js/2.8ba64989.chunk.js",
+    "static/css/main.001b0961.chunk.css",
+    "static/js/main.52a93bb0.chunk.js"
+  ]
+}
