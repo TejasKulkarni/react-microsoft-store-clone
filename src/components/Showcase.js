@@ -1,0 +1,17 @@
+import React from 'react';
+
+const Showcase = () => {
+    return (
+        <header className="showcase">
+            <h2>Surface Deals</h2>
+            <p>
+                Select Surfaces are on sale now - save while supplies last
+            </p>
+            <a href="#" className="btn">
+                Show Now <i className="fas fas-chevron-right"></i>
+            </a>
+        </header>
+    );
+};
+
+export default Showcase;
